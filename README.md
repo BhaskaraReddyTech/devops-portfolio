@@ -4,7 +4,7 @@
 
 Welcome to my professional technology portfolio!
 
-This repository serves as a central collection of my DevOps, Cloud Engineering, Infrastructure Automation, DevSecOps, and AI-related projects.
+This repository is a central collection of my DevOps, Cloud Engineering, Infrastructure Automation, DevSecOps, and AI-related projects.
 
 My focus is on modern infrastructure, automation, scalability, reliability, security, and continuous improvement.
 
@@ -98,7 +98,7 @@ Each project will include, where applicable:
 ## 🤝 Connect
 
 - GitHub: https://github.com/BhaskaraReddyTech
-- LinkedIn:https://www.linkedin.com/in/bhaskarareddyofficial/
+- LinkedIn: https://www.linkedin.com/in/bhaskarareddyofficial/
 
 ---
 
